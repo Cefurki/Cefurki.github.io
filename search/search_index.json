@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nNas\u0131ls\u0131n\u0131z Acabaaaa\n\n\niyilik sa\u011fl\u0131k",
+            "text": "Ho\u015fgeldiniz\n\n\n\n\nAlt\u0131gen Dama: X Lira\n\n\nOyun Hakk\u0131nda\n\n\n16\u2019si beyaz 16\u2019si siyah olmak \u00fczere toplam 32 ta\u015f vard\u0131r ve ta\u015flar rakip ta\u015flar\u0131n \u00fczerinden atlayarak birbirlerini tahta d\u0131\u015f\u0131na alarak yok ederler.\n\n\nOyun Kurallar\u0131\n\n\n16\u2019si beyaz 16\u2019si siyah olmak \u00fczere toplam 32 ta\u015f vard\u0131r ve ta\u015flar rakip ta\u015flar\u0131n \u00fczerinden atlayarak birbirlerini tahta d\u0131\u015f\u0131na alarak yok ederler.\n\n\n\u0130leti\u015fim\n\n\n\n\n    function genericSocialShare(url){\n       window.open(url,'sharer','toolbar=0,status=0,width=508,height=545');\n       return true;\n    }\n\n\n\n\n\n\n\nFacebook\n -\n \nGmail",
             "title": "Anasayfa"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "Nas\u0131ls\u0131n\u0131z Acabaaaa  iyilik sa\u011fl\u0131k",
-            "title": "Welcome to MkDocs"
+            "location": "/#hosgeldiniz",
+            "text": "",
+            "title": "Ho\u015fgeldiniz"
+        },
+        {
+            "location": "/#oyun-hakknda",
+            "text": "16\u2019si beyaz 16\u2019si siyah olmak \u00fczere toplam 32 ta\u015f vard\u0131r ve ta\u015flar rakip ta\u015flar\u0131n \u00fczerinden atlayarak birbirlerini tahta d\u0131\u015f\u0131na alarak yok ederler.",
+            "title": "Oyun Hakk\u0131nda"
+        },
+        {
+            "location": "/#oyun-kurallar",
+            "text": "16\u2019si beyaz 16\u2019si siyah olmak \u00fczere toplam 32 ta\u015f vard\u0131r ve ta\u015flar rakip ta\u015flar\u0131n \u00fczerinden atlayarak birbirlerini tahta d\u0131\u015f\u0131na alarak yok ederler.",
+            "title": "Oyun Kurallar\u0131"
         },
         {
             "location": "/icerik/",
